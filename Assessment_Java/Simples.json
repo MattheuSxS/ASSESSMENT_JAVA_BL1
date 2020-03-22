@@ -1,0 +1,8 @@
+{
+    "nome": {
+        "primeiro_nome": "Jon",
+        "ultimo_nome": "Snow"
+    },
+    "CPF": "12345678900",
+    "email": "jonsnow@infnet.com"
+}
